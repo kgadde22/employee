@@ -1,0 +1,8 @@
+{
+    "status": "failure",
+    "error": {
+        "errorCode": "500",
+        "errorType": "Server",
+        "errorMessage": "Server error with source system"
+    }
+}

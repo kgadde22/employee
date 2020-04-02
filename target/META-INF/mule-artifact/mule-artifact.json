@@ -1,0 +1,46 @@
+{
+  "configs": [
+    "problem-4.1-and 4-2.xml",
+    "global.xml",
+    "problem-1-and-2.xml",
+    "api.xml",
+    "problem-5.xml",
+    "problem-3.xml"
+  ],
+  "secureProperties": [],
+  "redeploymentEnabled": true,
+  "name": "com.mycompany:problem-employee-api:1.0.1-SNAPSHOT",
+  "minMuleVersion": "4.2.0",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {
+      "exportedPackages": [],
+      "exportedResources": [
+        "log4j2.xml",
+        "global.xml",
+        "problem-4.1-and 4-2.xml",
+        "problem-1-and-2.xml",
+        "application-types.xml",
+        "dwl/globalFunction.dwl",
+        "properties/application-DEV.properties",
+        "examples/score.json",
+        "examples/test.json",
+        "api/dataTypes/employee-dataType.raml",
+        "api/api.raml",
+        "api/examples/400.json",
+        "api/examples/employee-res.txt",
+        "api/examples/employee-req.json",
+        "api/examples/500.json",
+        "api/examples/list.json",
+        "problem-3.xml",
+        "api.xml",
+        "problem-5.xml"
+      ]
+    }
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}

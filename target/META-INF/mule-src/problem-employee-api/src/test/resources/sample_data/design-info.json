@@ -1,0 +1,21 @@
+{
+  "sampleData": {
+    "b1c3a244-b6fe-4f4c-bfc3-85b3234f76f6": {
+      "payload": "sample_data/json_1.json",
+      "vars-scoreBoard": "sample_data/json_2.json"
+    },
+    "3738f23f-2977-4346-9034-bd4ce2a8295c": {
+      "payload": "sample_data/defaultstringtype.json",
+      "vars-scoreBoard": "sample_data/json.json"
+    },
+    "ef38db87-2d80-4037-ab56-49c3e9169725": {
+      "payload": "sample_data/unknown.dwl"
+    },
+    "a750f3ce-e69a-42fa-af5c-198d1555eaf2": {
+      "attributes": "sample_data/unknown_1.dwl"
+    },
+    "30349c9b-6ef8-4052-9b49-68b55480bb83": {
+      "payload": "sample_data/unknown_2.dwl"
+    }
+  }
+}
